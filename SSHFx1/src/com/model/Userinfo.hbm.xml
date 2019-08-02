@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping>
+	 <class name="com.model.Userinfo" table="userinfo" catalog="day1">
+        <id name="uid" type="java.lang.Integer">
+            <column name="uid" />
+            <generator class="native" />
+        </id>
+        <property name="usercard" type="java.lang.String">
+            <column name="usercard" length="30" />
+        </property>
+        <property name="userpwd" type="java.lang.String">
+            <column name="userpwd" length="30" />
+        </property>
+        <property name="userphone" type="java.lang.String">
+            <column name="userphone" length="11" />
+        </property>
+        <property name="useraddress" type="java.lang.String">
+            <column name="useraddress" length="50" />
+        </property>
+       
+    </class>
+</hibernate-mapping>
+
+<!-- 
+	 <set name="stus" inverse="true">
+            <key>
+                <column name="cid" />
+            </key>
+            <one-to-many class="com.seve.model.Stu" />
+        </set>
+ -->
