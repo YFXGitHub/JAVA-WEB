@@ -14,4 +14,6 @@ BootCDN稳定、快速、免费的前端开源 https://www.bootcdn.cn
 
 音乐搜索器：
     http://music.cccyun.cc    |  https://music.lkxin.cn
+    
+百度指数（用于技术转型查看）：http://index.baidu.com/v2/index.html?from=pinzhuan#/
 
