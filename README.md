@@ -7,6 +7,8 @@ Thymeleaf学习： https://www.thymeleaf.org/documentation.html      https://www
 Maven 依赖搜索: https://mvnrepository.com
 Mybatis学习： http://c.biancheng.net/view/4375.html
 Dubbo学习网址：https://blog.csdn.net/jingyangV587/article/details/84983770
+SpringCloud-Eurake学习网址：https://www.cnblogs.com/knowledgesea/p/11208000.html
+
 在线代码格式化工具网页：http://tool.oschina.net/codeformat/
 BootCDN稳定、快速、免费的前端开源 https://www.bootcdn.cn
 
