@@ -22,3 +22,4 @@ BootCDN稳定、快速、免费的前端开源 https://www.bootcdn.cn
     
 百度指数（用于技术转型查看）：http://index.baidu.com/v2/index.html?from=pinzhuan#/
 
+技术文档撰写网站（帐号741741，密码:你懂得！）：https://www.showdoc.cc/yfx2019?page_id=3060535056200510
