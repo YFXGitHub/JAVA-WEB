@@ -17,6 +17,8 @@ BootCDN稳定、快速、免费的前端开源 https://www.bootcdn.cn
 
 网页模板网站：http://www.cssmoban.com/cssthemes/7226.shtml           https://www.17sucai.com
 
+【前端css/js 网上引用路径网址：https://www.bootcdn.cn/fontawesome-iconpicker/】
+
 音乐搜索器：
     http://music.cccyun.cc    |  https://music.lkxin.cn
     
