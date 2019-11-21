@@ -18,6 +18,15 @@ BootCDN稳定、快速、免费的前端开源 https://www.bootcdn.cn
 网页模板网站：http://www.cssmoban.com/cssthemes/7226.shtml           https://www.17sucai.com
 
 【前端css/js 网上引用路径网址：https://www.bootcdn.cn/fontawesome-iconpicker/】
+Bootstrap 3.3.0 js 文件
+<script src="http://cdn.bootcss.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
+Bootstrap 3.3.0 css 文件
+<link rel="stylesheet" href="http://cdn.bootcss.com/bootstrap/3.3.0/css/bootstrap.min.css">
+Bootstrap 3.0.3 js 文件
+<script src="http://libs.baidu.com/bootstrap/3.0.3/js/bootstrap.min.js"></script>
+Bootstrap 3.0.3 css 文件
+<link href="http://libs.baidu.com/bootstrap/3.0.3/css/bootstrap.min.css" rel="stylesheet" 
+
 
 音乐搜索器：
     http://music.cccyun.cc    |  https://music.lkxin.cn
